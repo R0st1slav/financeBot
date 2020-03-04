@@ -11,6 +11,7 @@ from categories import Categories
 from middlewares import AccessMiddleware
 
 #ti pidor
+#wat
 
 logging.basicConfig(level=logging.INFO)
 
