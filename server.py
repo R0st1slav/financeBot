@@ -10,6 +10,7 @@ import expenses
 from categories import Categories
 from middlewares import AccessMiddleware
 
+#ti pidor
 
 logging.basicConfig(level=logging.INFO)
 
